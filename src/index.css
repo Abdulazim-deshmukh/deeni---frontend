@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f7f7f7;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  padding: 16px;
+  background: #0f766e;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
+
+.arabic {
+  font-size: 20px;
+  line-height: 1.8;
+  font-family: "Amiri", serif;
+}
