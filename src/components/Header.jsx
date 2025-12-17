@@ -10,7 +10,7 @@ export default function Header() {
       <nav style={styles.nav}>
         <Link to="/" style={styles.link}>Surahs</Link>
         <Link to="/duas" style={styles.link}>Duas</Link>
-        <Link to="/azan" style={styles.link}>Azan</Link>
+        
 
       </nav>
     </header>
